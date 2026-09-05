@@ -26,13 +26,6 @@ Este repositorio contiene los proyectos y archivos correspondientes a las práct
 
 Cada práctica se encuentra organizada mediante ramas independientes de control de versiones, con el propósito de mantener un historial ordenado de los diferentes trabajos desarrollados durante el curso.
 
----
-
-## Prácticas
-
-| Práctica   | Descripción                  | Rama        |
-| ---------- | ---------------------------- | ----------- |
-| Práctica 2 | [Proyecciones, Transformaciones geométricas] | `practica2` |
 
 ---
 
@@ -44,6 +37,10 @@ Repositorio
 ├── README.md
 │
 └── practica1
+    ├── Proyecto
+    └── Release
+        └── Ejecutables
+└── practica2
     ├── Proyecto
     └── Release
         └── Ejecutables
